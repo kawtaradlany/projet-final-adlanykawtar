@@ -12111,6 +12111,20 @@ textarea.form-control-lg {
   justify-content: center;
 }
 
+.section11 {
+  width: 100%;
+}
+.section11 img {
+  width: 40px;
+}
+.section11 .test {
+  width: 100% !important;
+  display: flex;
+}
+.section11 .lastdiv {
+  width: 100vw;
+}
+
 .section12 {
   background-color: #edf2ff;
   height: 40vh;
