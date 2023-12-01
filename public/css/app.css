@@ -12130,6 +12130,13 @@ textarea.form-control-lg {
   height: 40vh;
 }
 
+@media (max-width: 430px) {
+  .lastdivsection12 {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+  }
+}
 footer {
   background-color: #176abc;
 }
