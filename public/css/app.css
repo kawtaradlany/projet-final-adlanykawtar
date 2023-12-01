@@ -12075,11 +12075,22 @@ textarea.form-control-lg {
 }
 
 .section9 {
-  height: 100vh;
+  padding: 60px;
 }
 .section9 .divdiv1section9 {
   width: 20vw;
-  height: 60%;
+}
+
+.section9 {
+  width: 100%;
+}
+.section9 .div1section9 {
+  width: 100% !important;
+  gap: 30px;
+}
+.section9 .div1section9 .divdiv1section9 {
+  background-color: bleu;
+  width: 100%;
 }
 
 .section10 .firstimg {
