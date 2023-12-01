@@ -12105,6 +12105,12 @@ textarea.form-control-lg {
   opacity: 25%;
 }
 
+.section10 .kawtartest {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+}
+
 .section12 {
   background-color: #edf2ff;
   height: 40vh;
