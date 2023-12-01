@@ -201,19 +201,18 @@
 // section8
 .section8
     background-color: #f9f9f9
-    height: 100vh
+    // height: 100vh
     .les3divsection8
-        width: 70%
     .div1section8
         border: solid #e8e8e8
-        height: 60vh
-        width: 21vw
+        // height: 60vh
+        width: 20vw !important
 
     .divdiv1section8
-        width: 80%
+        width: 20vw
         display: flex
         flex-direction: column
-        justify-content: end
+        justify-content: center
         padding: 20px
 
     .iconsuggery
@@ -222,6 +221,16 @@
         padding: 10px
     .taillespan
         font-size: 30px
+
+@media  (max-width: 430px ) 
+.les3divsection8
+    gap: 3px
+    .div1section8
+        width: 100% !important
+        .divdiv1section8 
+            width: 90% !important
+            padding: 30px
+
 // section9
 .section9
     height: 100vh

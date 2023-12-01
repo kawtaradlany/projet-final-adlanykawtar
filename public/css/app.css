@@ -12042,21 +12042,16 @@ textarea.form-control-lg {
 }
 .section8 {
   background-color: #f9f9f9;
-  height: 100vh;
-}
-.section8 .les3divsection8 {
-  width: 70%;
 }
 .section8 .div1section8 {
   border: solid #e8e8e8;
-  height: 60vh;
-  width: 21vw;
+  width: 20vw !important;
 }
 .section8 .divdiv1section8 {
-  width: 80%;
+  width: 20vw;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: center;
   padding: 20px;
 }
 .section8 .iconsuggery {
@@ -12066,6 +12061,17 @@ textarea.form-control-lg {
 }
 .section8 .taillespan {
   font-size: 30px;
+}
+
+.les3divsection8 {
+  gap: 3px;
+}
+.les3divsection8 .div1section8 {
+  width: 100% !important;
+}
+.les3divsection8 .div1section8 .divdiv1section8 {
+  width: 90% !important;
+  padding: 30px;
 }
 
 .section9 {
