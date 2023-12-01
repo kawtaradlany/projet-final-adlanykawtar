@@ -11926,6 +11926,11 @@ textarea.form-control-lg {
   background-size: cover;
 }
 
+@media (max-width: 430px) {
+  .slide1, .slide2, .slide3 {
+    height: 50%;
+  }
+}
 .div1 {
   width: 50% !important;
 }
